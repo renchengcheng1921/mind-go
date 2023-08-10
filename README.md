@@ -1,0 +1,2 @@
+# mind-go
+mind-go
